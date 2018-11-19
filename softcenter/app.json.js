@@ -148,15 +148,15 @@
             "title": "test"
         }, 
         {
-            "build_date": "2017-09-29_18:06:01", 
-            "changelog": "√修复重启导致防火墙规则重复", 
+            "build_date": "2018-11-14_15:31:06", 
+            "changelog": "升级bin到2018-10-20", 
             "description": "巨硬套餐激活工具", 
             "home_url": "Module_kms.asp", 
-            "md5": "206c88f07cc22e2013c3cc8df5883a68", 
+            "md5": "b5fe5e2d99ae4694a7d3c1a3e42c8c7b", 
             "name": "kms", 
             "tar_url": "kms/kms.tar.gz", 
-            "title": "kms", 
-            "version": "0.8"
+            "title": "KMS", 
+            "version": "0.9"
         }, 
         {
             "build_date": "2018-08-13_13:44:23", 
@@ -235,15 +235,15 @@
             "version": "1.0"
         }, 
         {
-            "build_date": "2018-10-16_20:46:57", 
-            "changelog": "优化ipset", 
+            "build_date": "2018-11-06_00:22:22", 
+            "changelog": "修复BUG", 
             "description": "听说KP和软路由更搭哦~", 
             "home_url": "Module_koolproxy.asp", 
-            "md5": "f26bf4ea4b6ce55cee710097b62f2bef", 
+            "md5": "0a7da3c9153a6e4dfb4b076c367bf90a", 
             "name": "koolproxy", 
             "tar_url": "koolproxy/koolproxy.tar.gz", 
             "title": "koolproxy", 
-            "version": "3.8.4.2"
+            "version": "3.8.4.8"
         }, 
         {
             "build_date": "2017-09-09_18:25:45", 
@@ -267,15 +267,15 @@
             "version": "0.9"
         }, 
         {
-            "build_date": "2018-08-23_18:36:12", 
-            "changelog": "修复一个语法错误", 
+            "build_date": "2018-11-11_15:42:40", 
+            "changelog": "更新ONMP", 
             "description": "Entware环境和扩展", 
             "home_url": "Module_entware.asp", 
-            "md5": "dabae8c30ec8414718edd7d8fe008250", 
+            "md5": "b33613acacda12f8dc30a6efa9f65177", 
             "name": "entware", 
             "tar_url": "entware/entware.tar.gz", 
             "title": "Entware", 
-            "version": "0.3"
+            "version": "0.4"
         }, 
         {
             "build_date": "2017-10-18_11:08:01", 
@@ -309,6 +309,17 @@
             "tar_url": "koolgame/koolgame.tar.gz", 
             "title": "koolgame 游戏加速", 
             "version": "1.0.8"
+        }, 
+        {
+            "build_date": "2018-11-14_14:52:36", 
+            "changelog": "", 
+            "description": "高效的次世代VPN", 
+            "home_url": "Module_wireguard.asp", 
+            "md5": "2b6f6ae9768f955a0a1ed9e327c441c5", 
+            "name": "wireguard", 
+            "tar_url": "wireguard/wireguard.tar.gz", 
+            "title": "WireGuard", 
+            "version": "0.1"
         }, 
         {
             "build_date": "2017-12-19_20:30:49", 
@@ -495,6 +506,17 @@
             "tar_url": "pppoeai/pppoeai.tar.gz", 
             "title": "拨号助手", 
             "version": "1.1"
+        }, 
+        {
+            "build_date": "2018-10-26_12:35:10", 
+            "changelog": "", 
+            "description": "百度网盘同步管理工具", 
+            "home_url": "Module_baidupcs.asp", 
+            "md5": "6d9e55a2c70b6db32debc53a9699b772", 
+            "name": "baidupcs", 
+            "tar_url": "baidupcs/baidupcs.tar.gz", 
+            "title": "百度网盘", 
+            "version": "0.1"
         }, 
         {
             "build_date": "2017-10-12_15:16:43", 
