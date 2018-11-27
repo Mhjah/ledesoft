@@ -170,15 +170,15 @@
             "version": "0.3"
         }, 
         {
-            "build_date": "2018-05-12_19:19:17", 
-            "changelog": "增加按国家分流", 
+            "build_date": "2018-11-24_23:09:16", 
+            "changelog": "更新路由表文件", 
             "description": "多运营商自动分流", 
             "home_url": "Module_policy.asp", 
-            "md5": "08a0d44a1001f5fc154f7b73d231407b", 
+            "md5": "14b35a6dcab8bacb02b8efe3a756347a", 
             "name": "policy", 
             "tar_url": "policy/policy.tar.gz", 
             "title": "策略路由", 
-            "version": "0.4"
+            "version": "0.5"
         }, 
         {
             "build_date": "2018-05-28_12:44:39", 
@@ -311,15 +311,15 @@
             "version": "1.0.8"
         }, 
         {
-            "build_date": "2018-11-14_14:52:36", 
-            "changelog": "", 
+            "build_date": "2018-11-22_20:56:35", 
+            "changelog": "修复nat转发规则未添加", 
             "description": "高效的次世代VPN", 
             "home_url": "Module_wireguard.asp", 
-            "md5": "2b6f6ae9768f955a0a1ed9e327c441c5", 
+            "md5": "6f53ff6cf2c3d96cdc7eb90e3707fcb1", 
             "name": "wireguard", 
             "tar_url": "wireguard/wireguard.tar.gz", 
             "title": "WireGuard", 
-            "version": "0.1"
+            "version": "0.2"
         }, 
         {
             "build_date": "2017-12-19_20:30:49", 
