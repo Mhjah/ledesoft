@@ -464,15 +464,15 @@
             "version": "0.8"
         }, 
         {
-            "build_date": "2018-10-22_11:05:20", 
-            "changelog": "更新3.4.8", 
+            "build_date": "2018-11-28_17:44:51", 
+            "changelog": "增加升级版本选择", 
             "description": "模块化的代理软件包", 
             "home_url": "Module_v2ray.asp", 
-            "md5": "39b77e1733390e04dcde49219418e6b3", 
+            "md5": "d2a7371fca2994ad5c544726f2ea7a5f", 
             "name": "v2ray", 
             "tar_url": "v2ray/v2ray.tar.gz", 
             "title": "V2Ray", 
-            "version": "1.8"
+            "version": "2.0"
         }, 
         {
             "build_date": "2018-07-01_17:38:34", 
@@ -651,7 +651,7 @@
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/koolshare/koolshare.github.io/master", 
-    "md5": "1330ca65a882eaefccaa8dd4439933b7", 
+    "md5": "f73af79af1533b10db49dc1531662d74", 
     "tar_url": "softcenter/softcenter.tar.gz", 
     "version": "0.3.6"
 }
